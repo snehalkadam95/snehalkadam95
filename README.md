@@ -1,5 +1,7 @@
 ### Hi there 👋, it's Snehal (Snehal Kadam)
 
+**Data Science Enthusiast | Python | SQL | Machine Learning | Data Analysis |**
+
 An ambitious and self-motivated individual seeking to build a career in the fields of Data Science and Data Analytics. Proficient in Python, Numpy, Pandas, Matplotlib, Seaborn, and Machine Learning, tableau. Now, looking for a suitable full-time job opportunity in the data science or data analytics domain.
 
 
